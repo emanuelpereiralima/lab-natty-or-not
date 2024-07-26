@@ -1,51 +1,21 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Criação de Músicas para mesa de RPG
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O objetivo com esse projeto foi desenvolver uma música pra uma mesa de rpg
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Suno.ai para criação da música
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizando o prompt no site pude criar uma música que estava em latim e falava que o ambiente que os jogadores estavam era repleto de ilusões e que eles deveriam ficar atentos
+mesmo que eles não soubessem disso mas acredito que isso seria uma adição interessante para o jogo, algumas sessões depois revelei a eles isso, onde criou curiosidade neles em voltar e explorar mais
+essa região por mais que agora eles já estivessem relativamente longe para retornarem
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Link da música utilizada : https://suno.com/song/9e854316-a680-404e-85b9-97a0cc4a23a2
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Acredito que para projetos pequenos e/ou pessoais onde não existe uma aporte financeiro a solução proposta pela IA supre bem as necessidades mas caso seja um projeto com orçamento acho extremamente necessário
+a contratação de um músico ou banda para criação de tal música visando uma qualidade melhor e até um refinamento que sinto que essa IA ao menos no momento que a utilizei não realizou.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
